@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|PT+Serif');
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -185,7 +187,6 @@ textarea {
   font: inherit;
 }
 html {
-  font: 112.5%/1.45em georgia, serif;
   box-sizing: border-box;
   overflow-y: scroll;
 }
